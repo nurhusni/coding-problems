@@ -5,7 +5,9 @@ using namespace std;
 int main() 
 {
     int n, count_a, count_d;
+    cin >> n;
     string game;
+    cin >> game;
 
     for (int i = 0; i < n; i++)
     {
